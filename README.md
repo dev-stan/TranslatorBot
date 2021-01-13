@@ -1,0 +1,2 @@
+# Translator Bot
+A discord bot used for tranlating from and to 487 languages. It utilizes the `discord` library to hook into discord and `Translator` from `googletrans` to fetch data from Google Translate. The usage is very simple, pick your server language with `?lang <langauge>` and you're all set! Next time you want to translate any string all you have to do is type out `?translate <string>` or `?t <string>`.
